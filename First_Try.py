@@ -22,9 +22,6 @@ print(dictio)
 var = int(input("Enter Number : "))
 print("The number is : ",var)
 if(var>4):
-    print("\nVar is greater than 4")
+    print("Var is greater than 4")
 else:
-    print("\nVar is less than 4")'''
-    
-    
-# New
+    print("Var is less than 4")'''
