@@ -11,7 +11,3 @@ print(f"Multiplication = {mul}")
 print(f"Addition = {Addition}")
 print(f"Div = {div}")
 
-name = "Fazle"
-name1 = "Rabbi"
-name2 = 9
-print(f"My name is {name + " " + name1 + str(name2)}")
