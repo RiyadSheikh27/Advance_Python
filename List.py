@@ -10,7 +10,7 @@ print(item3)
 number = [4, 1, 9, 12]
 number.sort()
 print(number)
-#Or
+
 number2 = [4,1,9,12]
 sorted_list = sorted(number2)
 print(sorted_list)
